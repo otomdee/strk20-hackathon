@@ -1777,5 +1777,18 @@
     ],
     "x_handle": "realpauldpundit",
     "inspired_by": "IDEA-02"
+  },
+  {
+    "repo_url": "https://github.com/otomdee/otc-veil",
+    "telegram": [
+      "Ox_Money"
+    ],
+    "name": "OTC Veil",
+    "one_liner": "Trustless private OTC settlement on STRK20 - atomic fills, no desk, no identity link",
+    "category": "DeFi",
+    "inspired_by": "private-otc-settlement",
+    "team": [
+      "otomdee"
+    ]
   }
 ]
